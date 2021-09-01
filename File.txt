@@ -1,8 +1,8 @@
-<<<<<<< HEAD
+ HEAD
 This is a Microsoft word document. (Changed main)
-=======
+
 This is a Microsoft word document. (Alternative)
->>>>>>> alternative
+ alternative
 It will be treated as a binary file by Git.
 
 In Congress, July 4, 1776
